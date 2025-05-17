@@ -66,6 +66,10 @@ A job board with listings for 4-day week jobs.
 
 Job board for Android Developers.
 
+### [Remoseal](https://www.remoseal.com)
+
+This is a general remote jobs website
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
